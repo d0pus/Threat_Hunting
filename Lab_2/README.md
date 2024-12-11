@@ -32,6 +32,7 @@
     install.packages("dplyr")
     ```
 2. Выполнение заданий:
+
 2.1 Сколько строк в датафрейме?
 ```{r}
 starwars %>% nrow()
@@ -84,6 +85,3 @@ starwars %>% filter(!is.na(species) & !is.na(name)) %>% mutate(name_length = nch
 ## Вывод 
 
 Так, мною были изучены инструменты обработки данных пакета dplyr.
-```{r}
-
-```
