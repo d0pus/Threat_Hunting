@@ -1,7 +1,4 @@
 # Подготовка воспроизводимых отчетов
-s9grigorii@yandex.ru
-
-# Подготовка воспроизводимых отчетов
 
 Author: s9grigorii@yandex.ru
 
