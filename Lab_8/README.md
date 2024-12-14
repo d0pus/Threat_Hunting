@@ -1,12 +1,3 @@
-
----
- title: "Анализ данных сетевого трафика с использованием аналитической in-memory СУБД DuckDB"
- author: "s9grigorii@yandex.ru"
- format: 
-   md:
-     output-file: README.md
----
-
 # Анализ данных сетевого трафика с использованием аналитической in-memory СУБД DuckDB
  
  
