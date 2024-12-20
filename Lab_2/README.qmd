@@ -1,4 +1,3 @@
-
 ---
  title: "Основы обработки данных с помощью R и Dplyr"
  author: "s9grigorii@yandex.ru"
