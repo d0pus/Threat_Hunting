@@ -1,13 +1,13 @@
 
 ---
- title: "Введение в R"
+ title: "Основы обработки данных с помощью R и Dplyr"
  author: "s9grigorii@yandex.ru"
  format: 
    md:
      output-file: README.md
 ---
 
-# Введение в R
+# Основы обработки данных с помощью R и Dplyr
  
  
 ## Цель работы 
@@ -37,7 +37,7 @@
 ## Шаги
 
 1.  Для начала прохождения курса необходимо установить программный пакет dplyr.
-    ```         
+    ```{r}         
     install.packages("dplyr")
     ```
 2. Выполнение заданий:
@@ -93,7 +93,4 @@ starwars %>% filter(!is.na(species) & !is.na(name)) %>% mutate(name_length = nch
 ## Вывод 
 
 Так, мною были изучены инструменты обработки данных пакета dplyr.
-```{r}
-
-```
  
