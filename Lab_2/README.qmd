@@ -131,7 +131,6 @@ starwars %>% filter(height < 170) %>% select(name,height)
 
 ### 9. Подсчитать ИМТ (индекс массы тела) для всех персонажей. ИМТ подсчитать по формуле
 
-![](img/1.png)
 
 ``` r
 print(starwars %>% mutate(imt = mass / (height)^2) %>% select(name, imt))
