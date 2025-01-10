@@ -31,7 +31,7 @@
  
 ## Шаги
 
-1. Настроить подключение к Yandex Query (https://datalens.yandex.ru/)
+1. Настроить подключение к Yandex Query
 ![](img/1.png)
 
 2. Создать из запроса YandexQuery датасет DataLens
@@ -53,7 +53,7 @@
 4. Все построенные графики вывести в виде единого дашборда в Yandex DataLens.
 ![](img/7.png)
 
-Ссылка - https://datalens.yandex.cloud/qc0l8uo919n8c
+Ссылка - [Yandex DataLens Dashboard](https://datalens.yandex.cloud/qc0l8uo919n8c)
 
 ## Оценка результата
   
@@ -62,6 +62,3 @@
 ## Вывод 
 
 Так, мною был освоен процесс визуализации и анализа данных с использованием Yandex DataLens и Yandex Cloud, а также применены SQL-запросы для обработки сетевой активности.
-```{r}
-
-```
